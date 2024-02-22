@@ -1,0 +1,27 @@
+{
+    "name": "jackvargo/pmpro-signup-shortcode",
+    "description": "Shortcode for a simplified Membership Signup Form with options for email only signup and more. ",
+    "type": "wordpress-plugin",
+    "homepage": "https://www.paidmembershipspro.com/add-ons/pmpro-signup-shortcode/",
+    "require": {
+        "php": ">=7.0",
+        "johnpbloch/wordpress": ">=5.0"
+    },
+    "authors": [
+        {
+            "name": "strangerstudios",
+            "homepage": "https://github.com/strangerstudios"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/strangerstudios/pmpro-signup-shortcode",
+        "issues": "https://github.com/strangerstudios/pmpro-signup-shortcode/issues"
+    },
+    "extra": {
+        "original_repository": "https://github.com/strangerstudios/pmpro-signup-shortcode",
+        "stars": 5,
+        "watchers": 5,
+        "forks": 19,
+        "open_issues": 5
+    }
+}
